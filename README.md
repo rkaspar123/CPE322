@@ -20,3 +20,7 @@
 
 ---
 [Rebecca Kaspar LinkedIn](https://www.linkedin.com/in/rebecca-kaspar-950b71230/)
+
+---
+
+![default](https://github.com/rkaspar123/CPE322/assets/123090388/6ab7b363-07f8-4547-9973-207b105d487f)
