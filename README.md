@@ -1,26 +1,27 @@
-# Heading 1
-## Heading 2
-### Heading 3
-
-**bold text**
-
-*italicized text*
+# Rebecca Kaspar
+## 3/4 Computer Engineering Major
+### Pronouns: *she/her*
 
 > blockquote
 
-1. First item
-2. Second item
-3. Third item
+Coding Languages I Know (in order of most to least known):
+1. **C++**
+2. **Java**
+3. **Python**
 
-- First item
-- Second item
-- Third item
+```cpp
+int main()
+{
+  cout << "Hello World!";
+}
+```
 
-`Block of code`
+Classes I am Looking Forward to this Semester (besides CPE 322):
+- **CPE 592**
+- **EE 584**
+- **EE 345**
 
 ---
 [Rebecca Kaspar LinkedIn](https://www.linkedin.com/in/rebecca-kaspar-950b71230/)
 
 ---
-
-![default](https://github.com/rkaspar123/CPE322/assets/123090388/6ab7b363-07f8-4547-9973-207b105d487f)
