@@ -1,6 +1,6 @@
 # Lab 3 - Python
 
-### cd ~/iot + cd *3
+### cd ~\iot + cd *3
 
 ![cd](https://github.com/rkaspar123/CPE322/assets/123090388/17a72f21-9585-4dc7-861a-1cc5e4ea7a4b)
 
@@ -27,6 +27,8 @@
 ---
 ### python3 sun.py 'New York'
 
+![sun](https://github.com/rkaspar123/CPE322/assets/123090388/b8867261-0cda-4827-b231-d4d6272cbee7)
+
 ---
 ### python3 moon.py
 
@@ -45,8 +47,12 @@
 ---
 ### python3 cpu.py
 
+![cpu](https://github.com/rkaspar123/CPE322/assets/123090388/ea60c664-483b-4045-bbee-44e9aee452a2)
+
 ---
 ### python3 battery.py
+
+![batt](https://github.com/rkaspar123/CPE322/assets/123090388/046e402c-79cc-4427-936f-3cc3b6c826e4)
 
 ---
 ### python3 documentstats.py document.txt
