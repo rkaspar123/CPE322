@@ -7,16 +7,16 @@
 
 ---
 Lab Checklist:
-- [x] Lab 1
-- [x] Lab 2
-- [x] Lab 3
-- [ ] Lab 4
-- [ ] Lab 5
-- [x] Lab 6
-- [x] Lab 7
-- [x] Lab 8
-- [x] Lab 9
-- [ ] Lab 10
+- [x] [Lab 1](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab1.md)
+- [x] [Lab 2](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab2.md)
+- [x] [Lab 3](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab3.md)
+- [ ] [Lab 4](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab4.md)
+- [ ] [Lab 5](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab5.md)
+- [x] [Lab 6](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab6.md)
+- [x] [Lab 7](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab7.md)
+- [x] [Lab 8](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab8.md)
+- [x] [Lab 9](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab9.md)
+- [ ] [Lab 10](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab10.md)
 ---
 Coding Languages:
 1. **C++**
