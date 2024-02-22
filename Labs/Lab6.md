@@ -1,4 +1,4 @@
-# Lab 6 - Node.js and Pystache
+# Lab 6 - Node.js & Pystache
 
 ### Setup
 
