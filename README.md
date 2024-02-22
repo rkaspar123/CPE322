@@ -6,6 +6,18 @@
 [Rebecca Kaspar LinkedIn](https://www.linkedin.com/in/rebecca-kaspar-950b71230/)
 
 ---
+Lab Checklist:
+- [x] Lab 1
+- [x] Lab 2
+- [x] Lab 3
+- [ ] Lab 4
+- [ ] Lab 5
+- [x] Lab 6
+- [x] Lab 7
+- [x] Lab 8
+- [x] Lab 9
+- [ ] Lab 10
+---
 Coding Languages:
 1. **C++**
 2. **Java**
