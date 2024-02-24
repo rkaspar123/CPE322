@@ -3,7 +3,8 @@
 ---
 ![me](https://github.com/rkaspar123/CPE322/assets/123090388/f66140a7-00d1-47ed-ad71-4a92be96c844) 
 
-[Rebecca Kaspar LinkedIn](https://www.linkedin.com/in/rebecca-kaspar-950b71230/)
+[CPE322 Class Site](https://sites.google.com/stevens.edu/cpeee322group9/home?authuser=0) |
+[LinkedIn](https://www.linkedin.com/in/rebecca-kaspar-950b71230/)
 
 ---
 Lab Checklist:
