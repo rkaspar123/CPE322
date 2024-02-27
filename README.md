@@ -9,13 +9,13 @@ Lab Checklist:
 - [x] [Lab 1](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab1.md) - GHDL & GTKWave
 - [x] [Lab 2](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab2.md) - Command Line
 - [x] [Lab 3](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab3.md) - Python
-- [ ] [Lab 4](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab4.md) - Django & Flask
+- [x] [Lab 4](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab4.md) - Django & Flask
 - [x] [Lab 5](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab5.md) - Paho-MQTT
 - [x] [Lab 6](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab6.md) - Node.js & Pystache
 - [x] [Lab 7](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab7.md) - ThingSpeak & Google Sheets
 - [x] [Lab 8](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab8.md) - Data Analysis
 - [x] [Lab 9](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab9.md) - YANG
-- [ ] [Lab 10](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab10.md) - Blockchain
+- [x] [Lab 10](https://github.com/rkaspar123/CPE322/blob/main/Labs/Lab10.md) - Blockchain
 ---
 Coding Languages:
 1. **C++**
