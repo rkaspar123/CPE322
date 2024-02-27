@@ -1,8 +1,6 @@
 # CPE 322: Assignment 0
 ### About Me
 ---
-![me](https://github.com/rkaspar123/CPE322/assets/123090388/f66140a7-00d1-47ed-ad71-4a92be96c844) 
-
 [CPE322 Class Site](https://sites.google.com/stevens.edu/cpeee322group9/home?authuser=0) |
 [LinkedIn](https://www.linkedin.com/in/rebecca-kaspar-950b71230/)
 
@@ -32,6 +30,13 @@ Courses:
 - **EE 584** - Wireless Systems Security
 - **CPE 592** - Computer & Multimedia Network Security
 - **IDE 399** - Engineering Economics & Project Management
+---
+
+![goose](https://github.com/rkaspar123/CPE322/assets/123090388/5d594e66-6b70-46e4-bc04-4cf63e9c4e80)
+
+
+
+
 ---
 Code:
 ```cpp
